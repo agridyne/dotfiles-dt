@@ -16,6 +16,7 @@ KDE Plasma
 - Splash Screen: Installed Kuro the cat by *a2-n*
 - Login Screen (SDDM): Installed Monochrome Plasma 6 by *pwyde*
 - Boot Splash Screen: Installed dotLock by *vrag*
+- Video Wallpaper for Desktop and Lockscreen: Installed Smart Video Wallpaper by *adhec*
 ### KDE WIDGETS:
 - CatWalkR (Cat in panel; top right)
 - KDE control station (Menu for panel; top right)
