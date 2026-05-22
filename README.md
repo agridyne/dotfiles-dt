@@ -38,8 +38,8 @@ cool-retro-term
 - I attached my .json for cool retro term (You can import it using the context menu when launching the terminal).
 ## BROWSER:
 zen
-- To achieve the transparent background I followed this guide https://sameerasw.com/zen and since I'm on KDE, I had to also use *kwin-effects-forceblur* for this to work
-	- Refer to screenshots for kwin-effect-forceblur configs
+- To achieve the transparent background I followed this guide https://sameerasw.com/zen and since I'm on KDE, I had to also use *kwin-effects-better-blur-dx* for this to work
+	- Refer to screenshots for kwin-effects-better-blur-dx configs
 - Firefox extensions used
 	- Bonjourr (new tab/home page with greeting, quote, search bar)
 	- Dark Reader (to auto set websites to dark mode; used in conjunction with Zen Internet extension)
